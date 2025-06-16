@@ -3,7 +3,7 @@
 
 Welcome to **NLP-to-LLM**! where I document, implement, and practice concepts related to **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** from the ground up.
 
-This repo is part of my preparation for **Data Science interviews**, focusing on foundational understanding and practical applications. The goal of the above codes is not to get the best results on a given dataset. The primary objective is to examine how a model is implemented. Kindly look into in-depth performance-enhancing techniques depending on your data.
+**NOTE:** This repo is part of my preparation for **Data Science interviews**, focusing on foundational understanding and practical applications. The goal of the above codes is not to get the best results on a given dataset. The primary objective is to examine how a model is implemented. Kindly look into in-depth performance-enhancing techniques depending on your data.
 
 
 ## 📚 Topics to be covered
